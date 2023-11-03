@@ -20,8 +20,7 @@ printf '\07'
 ```
 
 ## Obsfucate Me
-One of the aforementioned ASCII control characters is [backspace](https://en.wikipedia.org/wiki/Backspace).
-
+One of the aforementioned ASCII control characters is [backspace](https://en.wikipedia.org/wiki/Backspace). Let's try writing the string 'I have a secret' and then backspacing for each character, such that when printed to the terminal, nothing seems to be printed.
 ```bash
 printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08'
 ```

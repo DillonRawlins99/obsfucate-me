@@ -3,6 +3,7 @@
 TODO
 ## Prerequisites
 - Basic understanding of binary
+- Basic digital literacy
 ## Introduction
 > There are 10 kinds of people in the world-those who understand binary and those who don't.
 

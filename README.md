@@ -8,7 +8,7 @@ TODO
 
 What a binary sequence means is in the eye of the beholder. It could be interpreted to be a sequence of answers to yes/no questions, an image of your cat, an [ELF executable](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format), an [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family) instruction or the text of ["Great Expectations"](https://en.wikipedia.org/wiki/Great_Expectations). The key is to agree on the format and structure of the binary for the type of information you are representing.
 
-[ASCII](https://en.wikipedia.org/wiki/ASCII) maps bit patterns to character symbols. That gives one the capability to process, store, and transmit English written language (such as the text of Great Expectations).
+[ASCII](https://en.wikipedia.org/wiki/ASCII) maps bit patterns to character symbols. That gives one the capability to process, store, and transmit English written language (such as the text of Great Expectations) or a programming language's source code.
 
 ## Fundamental Concepts and Context
 - ASCII

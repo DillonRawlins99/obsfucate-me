@@ -11,7 +11,13 @@ What a binary sequence means is in the eye of the beholder. It could be interpre
 
 [ASCII](https://en.wikipedia.org/wiki/ASCII) maps bit patterns to character symbols. That gives one the capability to process, store, and transmit English written language (such as the text of Great Expectations) or a programming language's source code.
 
-Moreover, beyond just [printable characters](https://en.wikipedia.org/wiki/Graphic_character), ASCII has a legacy of control functions that were intended for [teletypes](https://en.wikipedia.org/wiki/Teleprinter) known as [control characters](https://en.wikipedia.org/wiki/Control_character).
+## Making a sound on the terminal
+```bash
+printf '\07'
+```
+Moreover, beyond just [printable characters](https://en.wikipedia.org/wiki/Graphic_character), ASCII has a legacy of control functions that were intended for [teletypes](https://en.wikipedia.org/wiki/Teleprinter) known as [control characters](https://en.wikipedia.org/wiki/Control_character). 
+
+
 
 ## Fundamental Concepts and Context
 - ASCII

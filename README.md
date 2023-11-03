@@ -19,7 +19,7 @@ The following command run in most terminal emulators using a unix-based shell, r
 printf '\07'
 ```
 
-## Fundamental Concepts and Context
+## Terms to research
 - ASCII
 - Low-level Terminal interface
 - Escape sequence

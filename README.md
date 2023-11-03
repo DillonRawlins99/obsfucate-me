@@ -14,7 +14,7 @@ What a binary sequence means is in the eye of the beholder. It could be interpre
 Moreover, beyond just [printable characters](https://en.wikipedia.org/wiki/Graphic_character), ASCII has a legacy of control functions that were intended for [teletypes](https://en.wikipedia.org/wiki/Teleprinter) known as [control characters](https://en.wikipedia.org/wiki/Control_character). 
 
 ## Making a sound on the terminal
-The following command run in most terminal emulators using a unix-based shell, rings a terminal bell. It controls the terminal to ring an audible bell, rather than printing the characters '\07' to the screen. The mechanism for doing this is called an [escape sequence](https://en.wikipedia.org/wiki/Escape_sequence).
+The following command run in most terminal emulators using a unix-based shell, rings a terminal bell. It controls the terminal to ring an audible bell, rather than printing the characters '\07' to the screen. Pretty cool right? The mechanism for doing this is called an [escape sequence](https://en.wikipedia.org/wiki/Escape_sequence).
 ```bash
 printf '\07'
 ```

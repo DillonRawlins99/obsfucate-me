@@ -1,4 +1,4 @@
-# Obsfucate Me, A Learning Project In Binary Encodings, Teletypes
+# Obsfucate Me, A Learning Project In Binary Encodings, ASCII text, and Teletypes
 ## TLDR 
 TODO
 ## Prerequisites

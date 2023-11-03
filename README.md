@@ -19,7 +19,7 @@ The following command run in most terminal emulators using a unix-based shell, r
 printf '\07'
 ```
 ## Obsfucate Me
-One of the aforementioned ASCII control characters is [backspace](https://en.wikipedia.org/wiki/Backspace). 
+One of the aforementioned ASCII control characters is [backspace](https://en.wikipedia.org/wiki/Backspace).
 ```bash
 printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08'
 ```

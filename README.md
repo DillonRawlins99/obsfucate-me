@@ -18,6 +18,9 @@ The following command run in most terminal emulators using a unix-based shell, r
 ```bash
 printf '\07'
 ```
+```
+printf 'foobar'
+```
 
 ## Fundamental Concepts and Context
 - ASCII

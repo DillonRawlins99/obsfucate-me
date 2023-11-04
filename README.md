@@ -1,6 +1,6 @@
 # Obsfucate Me, A Learning Project In Binary Encodings, ASCII text, and Teletypes
 ## TLDR 
-A fun technique for [obsfucation](https://en.wikipedia.org/wiki/Obfuscation_(software)).
+Demonstrates a fun technique for [obsfucation](https://en.wikipedia.org/wiki/Obfuscation_(software)). Uses properties of ASCII encoding, terminal output, and 
 ## Prerequisites
 - Basic understanding of binary
 - Basic digital literacy
@@ -35,6 +35,7 @@ Let's write a program `deobsfucate` that reads from standard input.
 cat secret.txt | ./deobsfucate.sh
 ```
 ## Applications
+### Obsfucating Email
 Your friend is a UNIX greybeard Todd that uses a command-line email client. You want to obsfucate some secret messages between you and your other friend Bruce on emails that they're both included on. Using these tools you could have some regular plain text and some secrets you want to share. The below is an idea of a message you would like to send.
 ```
 Todd and Bruce,

@@ -29,6 +29,12 @@ Let's write a program `obsfucate` that reads from [standard input](https://en.wi
 echo "secret" | ./obsfucate.sh
 ```
 
+Let's write a program `deobsfucate` that reads from standard input.
+
+```bash
+cat secret.txt | ./deobsfucate.sh
+```
+
 ## Terms to research
 - ASCII
 - Low-level Terminal interface

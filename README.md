@@ -26,7 +26,7 @@ printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\
 ```
 Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
 ```bash
-echo "secret" | ./obsfucate.sh
+echo "secret" | ./obsfucate.sh > secret.txt
 ```
 
 Let's write a program `deobsfucate` that reads from standard input.

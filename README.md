@@ -24,7 +24,7 @@ One of the aforementioned ASCII control characters is [backspace](https://en.wik
 ```bash
 printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08'
 ```
-We can use this feature to [obsfucate](https://en.wikipedia.org/wiki/Obfuscation_(software)) plaintext. Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
+We can use this feature to [obsfucate](https://en.wikipedia.org/wiki/Obfuscation_(software)) what seems like plaintext. Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
 ```bash
 echo "secret" | ./obsfucate.sh > secret.txt
 ```

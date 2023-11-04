@@ -35,7 +35,7 @@ Let's write a program `deobsfucate` that reads from standard input.
 cat secret.txt | ./deobsfucate.sh
 ```
 ## Applications
-Your friend is a UNIX greybeard that uses a command-line email client. You want to obsfucate some secret messages between you and your friend on emails that he's included on. Using these tools you could have some regular plain text and some 
+Your friend is a UNIX greybeard that uses a command-line email client. You want to obsfucate some secret messages between you and your friend on emails that he's included on. Using these tools you could have some regular plain text and some secrets you want to share.
 
 ## Terms to research
 - ASCII

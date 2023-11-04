@@ -46,6 +46,10 @@ Hey Bruce, why has Todd been pushing straight to master and not filing PRs? So a
 </SecretText>
 ```
 
+```bash
+cat regularEmail.txt <(python3 ./obsfucate.sh)
+```
+
 ## Terms to research
 - ASCII
 - Low-level Terminal interface

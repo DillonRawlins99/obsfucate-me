@@ -54,6 +54,7 @@ Hey Bruce, why has Todd been pushing straight to master and not filing PRs? So a
 cat regularEmail.txt <(cat secretEmail.txt | python3 ./obsfucate.sh)
 ```
 ## Obsfucate executable code
+A common workflow to get code from a url and run it is `curl http://myurl.com/myfile.sh | bash`.
 
 ## Terms to research
 - ASCII

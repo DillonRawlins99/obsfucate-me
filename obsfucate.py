@@ -4,7 +4,7 @@ def obsfucate(s):
     obsfucated = ""
     for c in s:
         obsfucated += c
-        obsfucated += random.randint(10,20) * '\x08'
+        obsfucated += random.randint(len(s),len(s)+20) * '\x08'
     return obsfucated
 try:
     while True:

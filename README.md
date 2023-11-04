@@ -24,7 +24,10 @@ One of the aforementioned ASCII control characters is [backspace](https://en.wik
 ```bash
 printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08'
 ```
-Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams) produces
+Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
+```bash
+echo "secret" | ./obsfucate.sh
+```
 
 ## Terms to research
 - ASCII

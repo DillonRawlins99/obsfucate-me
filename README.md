@@ -53,6 +53,7 @@ Hey Bruce, why has Todd been pushing straight to master and not filing PRs? So a
 ```bash
 cat regularEmail.txt <(cat secretEmail.txt | python3 ./obsfucate.sh)
 ```
+## Obsfucate executable code
 
 ## Terms to research
 - ASCII

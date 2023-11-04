@@ -54,7 +54,7 @@ Hey Bruce, why has Todd been pushing straight to master and not filing PRs? So a
 cat regularEmail.txt <(cat secretEmail.txt | python3 ./obsfucate.sh)
 ```
 ## Obsfucate executable code
-A common workflow to get code from a url and run it is `curl http://myurl.com/myfile.sh | bash`.
+A common workflow to get code from a url and run it is `curl http://myurl.com/myfile.sh | bash`. How could we integrate the ideas of `obsfucate-me` to make certain parts of your code harder to inspect?
 
 ## Terms to research
 - ASCII

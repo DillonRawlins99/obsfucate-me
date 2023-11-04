@@ -26,7 +26,7 @@ printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\
 ```
 We can use this feature to [obsfucate](https://en.wikipedia.org/wiki/Obfuscation_(software)) what seems like plaintext. Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
 ```bash
-echo "secret" | ./obsfucate.sh > secret.txt
+echo "secret" | ./obsfucate.py > secret.txt
 ```
 
 Let's write a program `deobsfucate` that reads from standard input.

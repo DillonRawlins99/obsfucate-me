@@ -46,7 +46,7 @@ Todd and Bruce,
 How about lunch next Monday at 12?
 
 <SecretText>
-Hey Bruce, why has Todd been pushing straight to master and not filing PRs? So annoying.
+Hey Bruce, why has Todd been pushing straight to main and not filing PRs? So annoying.
 </SecretText>
 ```
 

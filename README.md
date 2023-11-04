@@ -24,7 +24,7 @@ One of the aforementioned ASCII control characters is [backspace](https://en.wik
 ```bash
 printf 'I have a secret\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08'
 ```
-Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
+We can use this feature to [obsfucate](https://en.wikipedia.org/wiki/Obfuscation_(software)) plaintext. Let's write a program `obsfucate` that reads from [standard input](https://en.wikipedia.org/wiki/Standard_streams).
 ```bash
 echo "secret" | ./obsfucate.sh > secret.txt
 ```
@@ -34,6 +34,8 @@ Let's write a program `deobsfucate` that reads from standard input.
 ```bash
 cat secret.txt | ./deobsfucate.sh
 ```
+## Applications
+- Your friend is a UNIX greybeard that uses a command-line email client. You want to hide  messages like 
 
 ## Terms to research
 - ASCII

@@ -1,6 +1,6 @@
 # Obsfucate Me, A Learning Project In Binary Encodings, ASCII text, and Teletypes
 ## TLDR 
-Demonstrates a fun yet insecure technique for [obsfucation](https://en.wikipedia.org/wiki/Obfuscation_(software)). Uses properties of ASCII encoding, terminal output.
+Demonstrates a fun yet insecure technique for [obsfucation](https://en.wikipedia.org/wiki/Obfuscation_(software)). Uses properties of ASCII encoding and terminal output.
 ## Prerequisites
 - Basic understanding of binary
 - Basic digital literacy

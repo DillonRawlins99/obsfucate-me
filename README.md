@@ -1,6 +1,6 @@
 # Obsfucate Me, A Learning Project In Binary Encodings, ASCII text, and Teletypes
 ## TLDR 
-TODO
+A fun technique for [obsfucation](https://en.wikipedia.org/wiki/Obfuscation_(software)).
 ## Prerequisites
 - Basic understanding of binary
 - Basic digital literacy
